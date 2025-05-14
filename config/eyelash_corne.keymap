@@ -88,7 +88,7 @@
                                     &trans     &trans     &kp SPACE                                                             &kp RET    &trans     &kp LEFT_ALT
             >;
 
-            sensor-bindings = <&scroll_encoder>;
+            sensor-bindings = <&inc_dec_kp C_AC_SCROLL_DOWN C_AC_SCROLL_UP>;
         };
 
         layer_3 {
