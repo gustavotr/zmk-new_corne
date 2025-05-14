@@ -63,8 +63,8 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - $$mdi:apple-keyboard-shift$$
-  - BT CLR ALL
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
@@ -78,7 +78,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - HOME
   - PG UP
-  - $$mdi:apple-keyboard-control$$
+  - {t: '$$mdi:transfer$$', type: trans}
   - RGB OFF
   - RGB ON
   - RGB BRI
