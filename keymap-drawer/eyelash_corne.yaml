@@ -146,7 +146,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {type: held}
-  - $$mdi:apple-keyboard-option$$
+  - {t: '$$mdi:transfer$$', type: trans}
   Fn:
   - '&studio_unlock'
   - F1
@@ -195,4 +195,4 @@ layers:
   - {type: held}
   - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-option$$
